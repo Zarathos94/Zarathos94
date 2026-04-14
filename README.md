@@ -1,61 +1,38 @@
-# <img width="100px" src="https://avatars.githubusercontent.com/u/11465554?v=4" /> Irfan Šarić
+# Irfan Šarić
+ 
+**Senior Infrastructure Engineer — Backend Systems, Distributed Architecture, Platform Delivery**
+ 
+I help teams fix and scale backend systems without slowing product delivery. 10+ years across fintech, messaging infrastructure, logistics, and decentralized compute — owning architecture, delivery, and production operations.
 
-## 🤖 Building machines that build machines
-
-### 📚 Langues and Frameworks
-- Go
-- Rust ( Anchor, Tokio )
-- JavaScript, TypeScript
-- Java ( Spring Boot )
-- Python ( Pandas, Numpy, Alchemy, FastAPI, Alembic, Flask... )
-- Solidity
-- C
-- C++ ( STL, Boost, Bazel, Ninja )
-- SQL
-
-### 🏛️ Databases
-- PostgreSQL
-- MySQL
-- Cassandra
-- DynamoDB, BigQuery
-
-### 🗄️ Cache/Memory/File Storage
-- On Premise
-- Redis
-- Memcached
-- ElasticSearch, OpenSearch, all Lucene based
-- S3
-
-
-### ⚡️ Messaging/Event Source/Queue/Stream
-- Kafka
-- NATS
-- RabbitMQ
-- Matrix
-
-### ☁️ Environments
-- AWS
-- GCP
-- DigitalOcean
-
-
-### 🧰 Tooling
-- Version Control(Git/it-Flow)
-- Test Driven Development
-- Kubernetes
-- Docker
-- Jenkins
-- Github Actions
-
-## 💡 Projects
-- [Genesys Vault](https://github.com/Zarathos94/genesys-vault) - A Solana based AES-256 encrypted data store contract
-- [EVM Starter](https://github.com/Zarathos94/evm-starter) - Simple EVM starter config, used as a playground
-- [Voxelized](https://github.com/Zarathos94/Voxelized) - A particle gravity simulation program in C++ OpenGL
-- [MQTT/Kafka Router](https://github.com/Zarathos94/emqttd_kafka_plugin_rev) - A router plugin from EMQTT broker cluster to Kafka cluster
-- [OCPP Service](https://github.com/Zarathos94/ocpp-service) - An integration guide/setup for EV charging stations, written in GO, using Raspberry PI as the controller
-- [MQTT Cluster](https://github.com/Zarathos94/mqtt-cluster) - Simple EMQTT/X cluster configuration setup with authorization
-- [MQTT Auth API](https://github.com/Zarathos94/mqtt-auth-api) - A simple authorization API for EMQX broker clusters, with migrations and deployment config
-
-## 🔗 Get in touch
-- Telegram: @irfansaric
-- Twitter/X: @irfansaric
+ 
+→ [irfansaric.com](https://irfansaric.com) · [Case Studies](https://irfansaric.com/projects) · [Book a Discovery Call](https://irfansaric.com/consultation)
+ 
+---
+ 
+### What I work with
+ 
+**Languages** — Go, Rust, Java, Python, C/C++, TypeScript  
+**Data** — PostgreSQL, Cassandra, Redis, Elasticsearch, DynamoDB  
+**Infrastructure** — Kubernetes, Docker, AWS, GCP, DigitalOcean  
+**Messaging** — Kafka, NATS JetStream, RabbitMQ  
+**Practices** — Event-driven architecture, CQRS, distributed tracing, CI/CD (GitHub Actions, Jenkins)
+ 
+### Selected open-source work
+ 
+| Project | Description |
+|---|---|
+| [MQTT/Kafka Router](https://github.com/Zarathos94/emqttd_kafka_plugin_rev) | Router plugin bridging EMQTT broker clusters to Kafka — production pattern from a real-time trading platform |
+| [OCPP Service](https://github.com/Zarathos94/ocpp-service) | EV charging station integration service in Go with Raspberry Pi controller |
+| [Genesys Vault](https://github.com/Zarathos94/genesys-vault) | AES-256 encrypted data store contract on Solana |
+| [Voxelized](https://github.com/Zarathos94/Voxelized) | Particle gravity simulation in C++ / OpenGL |
+| [MQTT Cluster](https://github.com/Zarathos94/mqtt-cluster) | EMQX cluster configuration with auth and deployment tooling |
+ 
+### Writing
+ 
+Deep technical posts from production backend work — architecture decisions, protocol internals, and system design at scale.
+ 
+→ [irfansaric.com/blog](https://irfansaric.com/blog)
+ 
+---
+ 
+<sub>Sarajevo, Bosnia and Herzegovina · [irfansaric.com](https://irfansaric.com) · [@irfansaric](https://x.com/irfansaric)</sub>
